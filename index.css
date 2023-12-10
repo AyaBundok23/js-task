@@ -1,0 +1,28 @@
+#container {
+    background-color: #647072;
+    border: 5px solid  #f5e4c3;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+#btn {
+  background-color: blue;
+  padding: 25px 60px;
+  color: white;
+  font-size: 18px;
+  border: none;
+ 
+}
+#btn:hover {
+    background-color: green;
+    
+}
+div {
+  font-size: 25px;
+} 
+h1 {
+  font-size: 80px;
+  font-family: impact;
+}
